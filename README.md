@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaridG7
 - 👀 I’m interested in Front-end Developing for now
 - 🌱 I’m currently learning Java script and Re-act
-- 💞️ I’m looking to collaborate on some new Experimences
+- 💞️ I’m looking to collaborate on some new Experiences
 - 📫 How to reach me: telegram-id:@farid4477
 - mbti Type: INTJ
 <!---
