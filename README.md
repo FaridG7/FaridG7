@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @FaridG7
-- 👀 I’m interested in CyberSecurity and look for opportunity to start it.
-- 🌱 I’m currently learning how to become a penetration tester.
-- 💞️ I’m looking to collaborate on some new Experiences.
-- 📫 How to reach me: telegram-id:@farid4477
+Hi, I’m @FaridG7. 
+My Areas of interest:
+- Threat Hunting
+- Linux Internals
+- Linux Forensics
+- Linux Explotations
+- DevOps
+- Arch Ricing
+
+📫 How to reach me: @farid4477 on Telegram
+
 <!---
 FaridG7/FaridG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
