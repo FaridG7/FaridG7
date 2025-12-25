@@ -1,5 +1,6 @@
 Hi, I’m @FaridG7. 
-My Areas of interest:
+
+My areas of interest:
 - Threat Hunting
 - Linux Internals
 - Linux Forensics
