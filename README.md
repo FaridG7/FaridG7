@@ -18,8 +18,8 @@ My long-term goal is to grow into DevSecOps or Cloud Security Engineering — br
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 <!---
 FaridG7/FaridG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
